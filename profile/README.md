@@ -1,13 +1,13 @@
 ## 👋 Welcome
 
-JollyPixel is a playful, real time, collaborative editor for building JavaScript games with [Three.js](https://threejs.org/). It is **open source**, **free to use**, and do everything to be accessible and easy to learn.
+JollyPixel is a playful, real time, collaborative editor for building JavaScript games with [Three.js](https://threejs.org/). It is **open source**, **free to use**, and designed to be accessible and easy to learn.
 
 **What you get**
 
-1. **Create together, live**. Edit scenes, assets, and logic in real time with your team.
-2. **Works in the browser**. No installs. Open a link, start building.
-3. **No PhD required**. Intuitive editors and APIs help you grow step by step, without losing motivation.
-4. **Game production, not website tooling**. Many tools or frameworks focus on visual experiences to build cool websites, which is different. JollyPixel is designed for gameplay, scenes, assets, and scripting from **day one**.
+1. **Create together, live**. Edit scenes, assets, and logic in real time with your family, friends, or team.
+2. **Beginner friendly, pro ready**. Accessible for young and new creators, yet powerful for professionals. Prototype simple games, scale to larger projects, and extend JollyPixel with open source addons and new editors.
+3. **Built for games**. Many tools or frameworks focus on visual experiences to build cool websites, which is different. JollyPixel is designed for gameplay, scenes, assets, and scripting from **day one**.
+4. **Works in the browser**. No installs. Open a link, start building.
 
 We take inspiration from earlier tools such as [Superpowers](https://github.com/superpowers) and [CraftStudio](https://sparklinlabs.itch.io/craftstudio).
 
