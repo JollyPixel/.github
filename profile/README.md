@@ -15,7 +15,7 @@ We take inspiration from earlier tools such as [Superpowers](https://github.com/
 
 Building an editor is **hard**, and we welcome contributors of all levels and expertise. We need developers, artists but also people to help with growth and branding.
 
-[![JollyPixel](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/KgZFfemeqy)
+[![JollyPixel](https://discordapp.com/api/guilds/1397257557940244580/embed.png?style=banner2)](https://discord.gg/KgZFfemeqy)
 
 #### 🐤 How to contribute
 
