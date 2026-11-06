@@ -9,7 +9,13 @@ JollyPixel is a real-time, collaborative editor for making browser games. It is 
 3. **Made for games.** The editor is organized around game concepts: scenes, assets, and scripting.
 4. **Runs in the browser.** Nothing to install: open a link and start building. Games run and can be debugged directly in the browser.
 
-We take inspiration from earlier tools such as [Superpowers](https://github.com/superpowers) and [CraftStudio](https://sparklinlabs.itch.io/craftstudio).
+**What JollyPixel is not**
+
+JollyPixel is not a new game engine or renderer. It builds on existing libraries such as [Three.js](https://threejs.org/), using its WebGPU renderer.
+
+**Inspiration**
+
+JollyPixel takes inspiration from earlier collaborative game-making tools such as [Superpowers](https://github.com/superpowers) and [CraftStudio](https://sparklinlabs.itch.io/craftstudio). 
 
 ### ❤️ Contributors
 
